@@ -3,6 +3,8 @@ package ArrayProg;
 public class Demo {
 
 	public static void main(String[] args) {
+		
+		// this is demo program
         
 
 		int mockMark1 =12;
